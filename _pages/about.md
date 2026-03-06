@@ -24,7 +24,7 @@ Some scrutiny and regulation are required, and I believe that scientists
 must play an important role in any bodies devised to carry out such 
 tasks." - Arthur Galston, 1972
 
-Welcome to my personal website. I am PhD candidate and researcher 
+Welcome to my professional website. I am PhD candidate and researcher 
 in the [Mazin Lab](https://web.physics.ucsb.edu/~bmazin/index.html)
 at the University of California Santa Barbara. I am broadly interested 
 in topics pertaining to astronomical instrumentation, direct imaging of 
@@ -41,11 +41,13 @@ History
 - Feb 2025: Published a paper on the [MOMOS Simulation and Data Reduction Package](https://iopscience.iop.org/article/10.3847/1538-3881/adace4)
 - Jun 2024: Gave a talk at the UCSB Astro Lunch Talk Series
 - May 2024: Advanced to PhD candidacy & obtained M.A. in Physics from UC Santa Barbara
-- Sep 2023: Awarded a four-year NASA Space Technology Graduate Research Opportunities Fellowship
-- Sep 2021: Awarded the Dean's Graduate Fellowship & Academic Year Physics Fellowship at UCSB
+- Sep 2023: Awarded a NASA Space Technology Graduate Research Opportunities Fellowship
+- Sep 2021: Awarded the Dean's Graduate Fellowship & Academic Year Physics Fellowship
+- Jul 2021: Began current position as graduate researcher in the Mazin Lab at UCSB.
 - Jun 2021: Graduated from UC Santa Cruz with a B.S. in Physics
-- Jun 2021: Gave a talk at the UCSC Koret Slam?
-- Jun 2021: Gave a poster pop at ?
+- Jun 2021: Gave a talk at the UCSC Koret Undergraduate Research Slam
+- Jun 2021: Gave a talk at the 16th Patras Workshop on Axions, WIMPs, and WISPs
+- Jun 2021: Gave a talk at the UCSC No Jargon Talk Series
 - Apr 2021: Awarded the Koret Research Scholarship at UCSC
 - Sep 2020 & Sep 2019: Awarded the Campus Merit Scholarship at UCSC
 - Jan 2019: Awarded the Navy & Marine Corps Achievement Medal at the U.S. Consulate Nuevo Laredo

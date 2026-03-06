@@ -15,32 +15,6 @@ Education
 * M.A. in Astrophysics, University of California Santa Barbara, 2024
 * B.S. in Physics (Astrophysics), University of California Santa Cruz, 2021
 
-Work Experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -52,6 +26,23 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Skills
+======
+* Machinery
+  * ProtoTRAK CNC Mill
+  * Lathe 
+  * Dynacool PPMS
+  * Leidan Dilution Refrigerator
+* Programming Languages
+  * Python
+  * IDL
+* Software
+  * Zemax
+  * Docker
+  * Open Notebook
+  * Adobe Premiere Pro
+  * Adobe Audition
   
 Service and Leadership
 ======
