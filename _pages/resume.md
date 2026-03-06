@@ -1,21 +1,21 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics (Astrophysics Emphasis), University of California Santa Barbara, 2027 (expected)
+* M.A. in Astrophysics, University of California Santa Barbara, 2024
+* B.S. in Physics (Astrophysics), University of California Santa Cruz, 2021
 
-Work experience
+Work Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -53,12 +53,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Service and Leadership
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* UCSB Graduate Women & Gender Minorities in Physics: Officer 2022-Present
+* UCSB Physics GradLife: Officer 2022-2024
+* UCSB Student Veterans Organization: President 2023-2024?
+
