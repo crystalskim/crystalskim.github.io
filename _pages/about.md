@@ -30,7 +30,7 @@ at the University of California Santa Barbara. I am broadly interested
 in topics pertaining to astronomical instrumentation, direct imaging of 
 exoplanets, and dark matter. I graduated with B.S. in Physics from the 
 University of California Santa Cruz in 2021. I am also a U.S. Marine 
-Corps veteran with service between 2013 and 2019.
+Corps veteran with service from 2013 to 2019.
 
 History
 ======
@@ -43,11 +43,11 @@ History
 - May 2024: Advanced to PhD candidacy & obtained M.A. in Physics from UC Santa Barbara
 - Sep 2023: Awarded a NASA Space Technology Graduate Research Opportunities Fellowship
 - Sep 2021: Awarded the Dean's Graduate Fellowship & Academic Year Physics Fellowship
-- Jul 2021: Began current position as graduate researcher in the Mazin Lab at UCSB.
+- Jul 2021: Began current position as researcher in the Mazin Lab at UCSB
 - Jun 2021: Graduated from UC Santa Cruz with a B.S. in Physics
 - Jun 2021: Gave a talk at the UCSC Koret Undergraduate Research Slam
 - Jun 2021: Gave a talk at the 16th Patras Workshop on Axions, WIMPs, and WISPs
 - Jun 2021: Gave a talk at the UCSC No Jargon Talk Series
-- Apr 2021: Awarded the Koret Research Scholarship at UCSC
-- Sep 2020 & Sep 2019: Awarded the Campus Merit Scholarship at UCSC
-- Jan 2019: Awarded the Navy & Marine Corps Achievement Medal at the U.S. Consulate Nuevo Laredo
+- Apr 2021: Awarded the Koret Research Scholarship
+- Sep 2020 & Sep 2019: Awarded the Campus Merit Scholarship
+- Jan 2019: Awarded the Navy & Marine Corps Achievement Medal
